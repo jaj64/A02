@@ -19,34 +19,34 @@
 18. To push the change to GitHub, press VCS, then Git, then push. Whatever was changed should appear on GitHub.
 
 Glossary: 
-**Branch**: Branches are way of experimenting with new ideas or features in a contained and secluded area of your repository. When creating a repository, a singular branch is created which is the default branch is created and is public. Branches can be made from existing branches. 
-**Clone**: Cloning a repository involves downloading a copy of the existing repository on GitHub, including all versions and files, on your local computer. You can push changes through your clone to the remote repository on GitHub. 
-**Commit**: To commit means to record changes to a one or more files in the GitHub repository. The commit will contain information regarding the actual changes themselves, and when and who made the changes. A message will accompany the commit. 
-**Fetch**: This is a git command that allows for a user to download commits or files from the remote repository directly into a local repository. It will download the remote content, but not update your own individual work.
-**GIT**: GIT is an distributed open source version control system that tracks and create a full history of changes in a developer's working copy of a code. 
-**Github**: Github is an online cloud-based platform that allows for users to share and store their source code. 
-**Merge**: Merging is the process of integrating changes from one branch (usually a temporary branch) to another branch (usually the default branch). 
-**Merge Conflict**: A merge conflict occurs when GitHub cannot combine the differences in code between two branches or two commits.
-**Push**: A push describes when a user uploads their changes from their local repository to the remote repository in GitHub.
-**Pull**: A pull request is when a proposal is made to merge code from a branch into a project. 
-**Remote**: A remote repository is a repository that is present on GitHub. 
-**Repository**: A repository is a place where code and files can be stored alongside each file's revision history. 
+- **Branch**: Branches are way of experimenting with new ideas or features in a contained and secluded area of your repository. When creating a repository, a singular branch is created which is the default branch is created and is public. Branches can be made from existing branches. 
+- **Clone**: Cloning a repository involves downloading a copy of the existing repository on GitHub, including all versions and files, on your local computer. You can push changes through your clone to the remote repository on GitHub. 
+- **Commit**: To commit means to record changes to a one or more files in the GitHub repository. The commit will contain information regarding the actual changes themselves, and when and who made the changes. A message will accompany the commit. 
+- **Fetch**: This is a git command that allows for a user to download commits or files from the remote repository directly into a local repository. It will download the remote content, but not update your own individual work.
+- **GIT**: GIT is an distributed open source version control system that tracks and create a full history of changes in a developer's working copy of a code. 
+- **Github**: Github is an online cloud-based platform that allows for users to share and store their source code. 
+- **Merge**: Merging is the process of integrating changes from one branch (usually a temporary branch) to another branch (usually the default branch). 
+- **Merge Conflict**: A merge conflict occurs when GitHub cannot combine the differences in code between two branches or two commits.
+- **Push**: A push describes when a user uploads their changes from their local repository to the remote repository in GitHub.
+- **Pull**: A pull request is when a proposal is made to merge code from a branch into a project. 
+- **Remote**: A remote repository is a repository that is present on GitHub. 
+- **Repository**: A repository is a place where code and files can be stored alongside each file's revision history. 
 
 
 References: 
-IS117001 Canvas - ExtraInstallationInstructions-20200214.pdf (PPT)
-IS117001 Canvas - IntroToGitHub-20190318.pptx
-About merge methods on GitHub - GitHub Docs. (n.d.-a). GitHub Docs. https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github
-About merge methods on GitHub - GitHub Docs. (n.d.-b). GitHub Docs. https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github 
-About repositories - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
-Branches - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/branches 
-Cloning a repository - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
-Commits - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/commits 
-Git Guides - git push. (n.d.). GitHub. https://github.com/git-guides/git-push
-GitLab, & GitLab. (2024, September 24). Git pull vs. git fetch: What’s the difference? GitLab. https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/ 
-Merge conflicts - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/merge-conflicts 
-Pull requests - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/pull-requests 
-What is GitHub? - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/get-started/start-your-journey/what-is-github
+- IS117001 Canvas - ExtraInstallationInstructions-20200214.pdf (PPT)
+- IS117001 Canvas - IntroToGitHub-20190318.pptx
+- About merge methods on GitHub - GitHub Docs. (n.d.-a). GitHub Docs. https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github
+- About merge methods on GitHub - GitHub Docs. (n.d.-b). GitHub Docs. https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github 
+- About repositories - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+- Branches - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/branches 
+- Cloning a repository - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
+- Commits - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/commits 
+- Git Guides - git push. (n.d.). GitHub. https://github.com/git-guides/git-push
+- GitLab, & GitLab. (2024, September 24). Git pull vs. git fetch: What’s the difference? GitLab. https://about.gitlab.com/blog/git-pull-vs-git-fetch-whats-the-difference/ 
+- Merge conflicts - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/merge-conflicts 
+- Pull requests - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/reference/pull-requests 
+- What is GitHub? - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/get-started/start-your-journey/what-is-github
 
 
 
