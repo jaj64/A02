@@ -17,6 +17,9 @@
 16. Go back to GitHub (https://github.com/), create a file and name it READ.ME.MD. Add some text and commit that text.
 17. To commit to Git, make some changes in Webstorm, then press VCS, then Git, add the commit comment, and then commit.
 18. To push the change to GitHub, press VCS, then Git, then push. Any content that was changed should appear on GitHub.
+19. To create a branch in Webstorm, simply click the branch name in the bottom right corner, select a new branch, and type a name.
+20. To pull, click on Git, then click on Pull.
+21. To merge, click on the VCS widget and under the branch list, click on the branch that you want to put in and click "Merge into Current." If it is clean, then the merge will happen with no problems. However, if there is a merge conflict, you need to resolve the conflicts and manually commit. 
 
 Glossary: 
 - **Branch**: Branches are way of experimenting with new ideas or features in a contained and secluded area of your repository. When creating a repository, a singular branch is created which is the default branch is created and is public. Branches can be made from existing branches. 
